@@ -42,37 +42,57 @@ I'm a Computer Science student at Menoufia University and a passionate Software 
 </p>
 
 
-## 🚀 Featured Projects
+
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%">
       <h3>🛒 Wasla – E-Commerce Platform</h3>
-      <p>A modern e-commerce platform built to deliver a seamless online shopping experience.</p>
-      <p><b>Tech:</b> React.js, JavaScript, Bootstrap</p>
-      <a href="https://github.com/Mahmoud-Elassuty/Wasla">View Repository →</a>
+      <p>
+        A modern e-commerce platform designed to provide
+        a seamless and user-friendly shopping experience.
+      </p>
+      <p><b>Tech Stack:</b> React.js, JavaScript, Bootstrap</p>
+      <a href="https://github.com/Mahmoud-Elassuty/Wasla">
+        View Repository →
+      </a>
     </td>
     <td width="50%">
-      <h3>💍 Royal Romance</h3>
-      <p>An interactive wedding invitation platform with elegant UI and modern animations.</p>
-      <p><b>Tech:</b> React, TypeScript, Vite</p>
-      <a href="https://github.com/Mahmoud-Elassuty/royal-romance">View Repository →</a>
+      <h3>💻 Personal Portfolio</h3>
+      <p>
+        A modern, responsive developer portfolio showcasing
+        my technical skills, projects, experience, and professional journey.
+      </p>
+      <p><b>Tech Stack:</b> React.js, Vite, Supabase, EmailJS</p>
+      <a href="https://mahmoud-portfolio-react.vercel.app/">
+        Live Demo →
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Elassuty&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elassuty&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Elassuty&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mahmoud-Elassuty">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://mahmoud-portfolio-react.vercel.app/">
